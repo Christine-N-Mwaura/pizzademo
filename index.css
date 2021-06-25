@@ -18,7 +18,6 @@ a{
 }
 #home{
     background-image: url("./pizzaImage.jpeg");
-    background-image: url("paper.gif");
     background-size: cover;
     background-repeat: no-repeat;
     height: 400px;
