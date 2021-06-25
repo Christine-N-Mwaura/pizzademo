@@ -2,7 +2,7 @@ var pizzaCost = document.getElementById("pizzaOptions")
 
 function buyPizza() {
     
-
+    event.preventDefault()
     var pizzaCostInput = document.getElementById("pizzaOptions")
     var pizzaCost = pizzaCostInput.value
     var numberOfPizzasInput = document.getElementById("numberOfPizzasInput")
